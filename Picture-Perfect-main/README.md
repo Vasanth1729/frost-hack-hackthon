@@ -1,2 +1,2 @@
 # Picture-Perfect
-An MLH hackathon project. Image Selection
+A MLH hackathon project. Image Selection
