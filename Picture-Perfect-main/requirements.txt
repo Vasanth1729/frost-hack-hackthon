@@ -1,6 +1,5 @@
 flask
 gunicorn
-os
 werkzeug
 PIL
 torchvision
