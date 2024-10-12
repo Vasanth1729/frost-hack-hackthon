@@ -1,2 +1,10 @@
 flask
 gunicorn
+os
+werkzeug
+PIL
+torchvision
+piq
+shutil
+zipfile
+io
