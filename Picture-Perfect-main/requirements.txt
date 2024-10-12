@@ -1,9 +1,0 @@
-flask
-gunicorn
-werkzeug
-PIL
-torchvision
-piq
-shutil
-zipfile
-io
